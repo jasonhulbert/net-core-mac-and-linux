@@ -1,0 +1,12 @@
+{
+  "Practitioner": "Dr. Helen Johnson",
+  "Patient": "Tristan Weeks",
+  "DateRecorded": "2017-03-05T09:03:45Z",
+  "Tags": [
+    "urgent"
+  ],
+  "File": {
+    "FileName": "62ed4ecc-c0d8-4741-a499-a55f193994e3.WAV",
+    "Md5Checksum": "f99793468f05930b874668eed72ab46e"
+  }
+}

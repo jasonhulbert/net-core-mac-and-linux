@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "DictationProcessorService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

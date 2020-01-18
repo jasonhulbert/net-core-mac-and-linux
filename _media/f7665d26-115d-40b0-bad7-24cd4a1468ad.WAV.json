@@ -1,0 +1,13 @@
+{
+  "Practitioner": "Dr. Frank Greene",
+  "Patient": "Treemont H. Reed",
+  "DateRecorded": "2017-03-05T04:24:15Z",
+  "Tags": [
+    "very urgent",
+    "injury"
+  ],
+  "File": {
+    "FileName": "f7665d26-115d-40b0-bad7-24cd4a1468ad.WAV",
+    "Md5Checksum": "bdb3bf00145c11ea1f6cf3164f832844"
+  }
+}

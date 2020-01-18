@@ -1,0 +1,12 @@
+{
+  "Practitioner": "Dr. Hank Hellner",
+  "Patient": "Samson Hornmather",
+  "DateRecorded": "2017-03-05T17:33:12Z",
+  "Tags": [
+    "checkup"
+  ],
+  "File": {
+    "FileName": "cab26c9f-2de7-47e5-aad6-a4c2e9d0e4e9.WAV",
+    "Md5Checksum": "ffd3528c850c592b085084a23597e718"
+  }
+}

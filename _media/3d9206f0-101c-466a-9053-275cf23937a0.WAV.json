@@ -1,0 +1,12 @@
+{
+  "Practitioner": "Dr. Joon Lee",
+  "Patient": "Wesley Arthur",
+  "DateRecorded": "2017-03-05T03:43:09Z",
+  "Tags": [
+    "new patient"
+  ],
+  "File": {
+    "FileName": "3d9206f0-101c-466a-9053-275cf23937a0.WAV",
+    "Md5Checksum": "b3c44ad9c3d4754ef540ff5331e8b21d"
+  }
+}
